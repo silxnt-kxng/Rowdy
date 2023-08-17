@@ -84,4 +84,4 @@ if __name__ == '__main__':
 print("Cogs loaded. Bot starting.")
 print(bot.owner_ids)
 print(bot.description)
-bot.run("OTcxMDkwNTk2NDQ4MDUxMjIw.GkUm88.3MaEkOm7yZmMHEzm4N3TXx0dWrP6Pc4nEkR__k")
+bot.run(token)
